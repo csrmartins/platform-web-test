@@ -1,0 +1,16 @@
+{
+"companyName": "StemPlay",
+"productName": "Stem Play",
+"productVersion": "1",
+"dataUrl": "PlataformaWeb.data.unityweb",
+"wasmCodeUrl": "PlataformaWeb.wasm.code.unityweb",
+"wasmFrameworkUrl": "PlataformaWeb.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.3.5f1"
+}
